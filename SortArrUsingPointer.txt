@@ -1,5 +1,5 @@
 
-// Sorting an array using pointer
+// 1. Sorting an array using pointer
 
 #include <stdio.h>
 void displayArr(int arr[]){
